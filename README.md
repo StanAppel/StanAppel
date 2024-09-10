@@ -1,6 +1,6 @@
 # About myself
 ## My life
-Hello, I'm Stan, but you can call me Stan
+Hello, I'm Stan, but you can call me NLE Stoppa
 
 ## School
 I study application and data management in TA Brasschaat
